@@ -1385,7 +1385,7 @@ common_user_get_session (CommonUser *user)
 /**
  * common_user_set_session:
  * @user: A #CommonUser
- * @session: The user's new session
+ * @language: The user's new session
  *
  * Set the session for a user.
  **/
